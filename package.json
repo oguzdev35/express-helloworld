@@ -5,6 +5,9 @@
   "repository": "https://github.com/oguzdev35/express-helloworld.git",
   "author": "oguzdev35 <oguzdev35@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
     "express": "^4.17.1"
   }
